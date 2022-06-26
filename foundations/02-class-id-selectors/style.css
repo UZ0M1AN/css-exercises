@@ -1,0 +1,19 @@
+.light-red {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.fsiz-24 {
+    font-size: 24px;
+}
+
+#light-green {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
